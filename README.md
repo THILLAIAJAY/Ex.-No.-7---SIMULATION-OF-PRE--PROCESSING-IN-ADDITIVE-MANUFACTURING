@@ -46,8 +46,9 @@
 ## Output:
 <img width="1863" height="821" alt="566675209-6c634d62-4f31-45b2-abea-315f84f28e5f" src="https://github.com/user-attachments/assets/2dceac39-f52b-435e-8951-41942f29d6d1" />
 
-### Name:A.Infant Vijay
-### Register Number:212225240052
+### Name:L.THILLAI AJAY
+### Register Number:212224040354
+
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
